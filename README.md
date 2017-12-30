@@ -6,5 +6,6 @@ Please do not look through the source files here if you are trying to solve the 
 
 ## languages used
 
+- haskell
 - go
 - rust
