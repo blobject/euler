@@ -1,7 +1,7 @@
--- file: 0003.hs
+-- file: 0007.hs
 -- by  : agaric
 -- copy: public domain
--- desc: project euler #3 - "largest prime factor"
+-- desc: project euler #7 - "10001st prime"
 -- lang: haskell
 
 module Main (main) where
@@ -10,7 +10,7 @@ main :: IO ()
 main = print answer
 
 answer :: Integer
-answer = last (factors 600851475143)
+answer = primes !! 10000
 
 primes :: [Integer]
 primes = 2 : filter (null . tail . factors) [3, 5..]
