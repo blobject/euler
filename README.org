@@ -1,0 +1,9 @@
+* SPOILER ALERT
+
+Please do not look through the source files here if you are trying to solve the same problems at [[https://projecteuler.net/][Project Euler]].
+
+** languages used
+
+- haskell
+- go
+- rust
