@@ -1,8 +1,6 @@
 -- file: 0007.hs
 -- by  : agaric
--- copy: public domain
 -- desc: project euler #7 - "10001st prime"
--- lang: haskell
 
 module Main (main) where
 

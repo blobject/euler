@@ -1,8 +1,6 @@
 /* file: 0002.rs
  * by  : agaric
- * copy: public domain
  * desc: project euler #2 - "even Fibonacci numbers"
- * lang: rust
  */
 
 fn fib(n: usize) -> Vec<usize> {

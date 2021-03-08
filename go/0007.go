@@ -1,8 +1,6 @@
 /* file: 0007.go
  * by  : agaric
- * copy: public domain
  * desc: project euler #7 - "10001st prime"
- * lang: go
  */
 
 package main

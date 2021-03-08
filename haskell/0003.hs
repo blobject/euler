@@ -1,8 +1,6 @@
 -- file: 0003.hs
 -- by  : agaric
--- copy: public domain
 -- desc: project euler #3 - "largest prime factor"
--- lang: haskell
 
 module Main (main) where
 

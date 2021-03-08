@@ -1,8 +1,6 @@
 /* file: 0004.rs
  * by  : agaric
- * copy: public domain
  * desc: project euler #4 - "largest palindrome product"
- * lang: rust
  */
 
 fn is_palindrome(n: usize) -> bool {

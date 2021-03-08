@@ -1,8 +1,6 @@
 -- file: 0005.hs
 -- by  : agaric
--- copy: public domain
 -- desc: project euler #5 - "smallest multiple"
--- lang: haskell
 
 module Main (main) where
 

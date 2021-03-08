@@ -1,8 +1,6 @@
 /* file: 0006.go
  * by  : agaric
- * copy: public domain
  * desc: project euler #6 - "sum square difference"
- * lang: go
  */
 
 package main

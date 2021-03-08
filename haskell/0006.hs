@@ -1,8 +1,6 @@
 -- file: 0006.hs
 -- by  : agaric
--- copy: public domain
 -- desc: project euler #6 - "sum square difference"
--- lang: haskell
 
 module Main (main) where
 

@@ -1,8 +1,6 @@
 -- file: 0008.hs
 -- by  : agaric
--- copy: public domain
 -- desc: project euler #8 - "largest product in a series"
--- lang: haskell
 
 module Main (main) where
 import Data.Char (ord)

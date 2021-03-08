@@ -1,8 +1,6 @@
 /* file: 0002.go
  * by  : agaric
- * copy: public domain
  * desc: project euler #2 - "even Fibonacci numbers"
- * lang: go
  */
 
 package main

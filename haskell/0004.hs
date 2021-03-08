@@ -1,8 +1,6 @@
 -- file: 0004.hs
 -- by  : agaric
--- copy: public domain
 -- desc: project euler #4 - "largest palindrome product"
--- lang: haskell
 
 module Main (main) where
 

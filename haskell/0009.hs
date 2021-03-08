@@ -1,8 +1,6 @@
 -- file: 0009.hs
 -- by  : agaric
--- copy: public domain
 -- desc: project euler #9 - "special pythagorean triplet"
--- lang: haskell
 
 module Main (main) where
 

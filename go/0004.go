@@ -1,8 +1,6 @@
 /* file: 0004.go
  * by  : agaric
- * copy: public domain
  * desc: project euler #4 - "largest palindrome product"
- * lang: go
  */
 
 package main

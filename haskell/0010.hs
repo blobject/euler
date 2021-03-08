@@ -1,8 +1,6 @@
 -- file: 0010.hs
 -- by  : agaric
--- copy: public domain
 -- desc: project euler #10 - "summation of primes"
--- lang: haskell
 
 module Main (main) where
 

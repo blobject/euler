@@ -1,8 +1,6 @@
 /* file: 0001.go
  * by  : agaric
- * copy: public domain
  * desc: project euler #1 - "multiples of 3 and 5"
- * lang: go
  */
 
 package main

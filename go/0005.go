@@ -1,8 +1,6 @@
 /* file: 0005.go
  * by  : agaric
- * copy: public domain
  * desc: project euler #5 - "smallest multiple"
- * lang: go
  */
 
 package main

@@ -1,8 +1,6 @@
 -- file: 0002.hs
 -- by  : agaric
--- copy: public domain
 -- desc: project euler #2 - "even Fibonacci numbers"
--- lang: haskell
 
 module Main (main) where
 

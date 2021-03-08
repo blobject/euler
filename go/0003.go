@@ -1,8 +1,6 @@
 /* file: 0003.go
  * by  : agaric
- * copy: public domain
  * desc: project euler #3 - "largest prime factor"
- * lang: go
  */
 
 package main
